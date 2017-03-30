@@ -1,0 +1,22 @@
+# --------->
+MTbot v1.0, source code avaiable soon!
+
+NOTE: il 28MAR17 alle 19:00 ho implementato il sistema di notifica, se hai 
+eseguito il comando /start prima di tale data dovresti attivare nuovamente il servizio.
+# --------->
+
+Sei troppo pigro per imparare a memoria le aule e gli orari? MTbot fa proprio al
+caso tuo, vuoi essere informato su tempestivi cambi di orario/aula? La nostra
+redazione composta interamente da Mirko Toro serve a questo.
+Usare il bot è semplice.
+
+/help - Stampa questo messaggio
+/oggi - Invia l'orario giornaliero (testo)
+/dmn  - Invia l'orario di domani (testo)
+/full - Invia un immagine dell'orario completo del 3° secondo semestre
+/rec  - Invia un index dei link di registrazioni delle lezioni
+/end - Disiscrive l'utente alla ricezione di news su cose
+
+Per segnalazioni contatta
+* la Direzione: @mirkotoro
+* Developer: @aleksbuggato
